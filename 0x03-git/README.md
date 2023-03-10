@@ -1,1 +1,1 @@
-first read me
+Git hub direct
